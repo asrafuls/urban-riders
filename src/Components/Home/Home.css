@@ -1,0 +1,11 @@
+.homeComp{
+    height: 100vh;
+    background: url(https://raw.githubusercontent.com/ProgrammingHero1/urban-riders/main/images/Bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.home-ticket-options{
+    margin-top: 200px !important;
+}
